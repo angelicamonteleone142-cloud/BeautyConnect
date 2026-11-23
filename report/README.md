@@ -1,0 +1,1 @@
+Qui andrò a inserire passo per passo le informazioni che mi saranno utili per la stesura della relazione finale.

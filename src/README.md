@@ -1,0 +1,1 @@
+In questa senzione vado a scrivere gli scrip di Payton che serviranno per sviluppare il progetto.
