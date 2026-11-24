@@ -30,3 +30,16 @@ zone_geografiche = ["Nord", "Centro", "Sud e Isole"]
 #Definizione Categorie di servizi offerti sulla piattaforma
 
 categorie_servizio = ["Hair Styling", "Hair Coloring", "Nail Care", "Skincare", "Beauty Treatments"]
+
+# GENERAZIONE DEI DATI DEL CLIENTE
+
+# creazione di una lista vuota che conterrà le informazioni dei clienti
+
+clienti = []
+
+fro numero in range(1, numero_cienti + 1):
+
+# Creazione dell'id cliente
+
+identificativo = f"C{numero:04d}"
+
