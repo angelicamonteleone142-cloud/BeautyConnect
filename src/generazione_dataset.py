@@ -43,3 +43,26 @@ fro numero in range(1, numero_cienti + 1):
 
 identificativo = f"C{numero:04d}"
 
+# Seleziono casualmente l'area geografica
+
+zona = random.choice(zone_geografiche)
+
+# seleziono casualmente la categoria di servizio
+
+categoria = random.choice(categorie_servizio)
+
+# popolo la lista dei clienti con le informazioni
+
+clienti.append({
+    "ID_cliente": identificativo,
+    "Zona": zona,
+    "Categoria_preferita": categoria
+})
+
+# Con l'utilizzo di Pandas creiamo una tabella dalla lista
+
+dataset = pd.DataFrame(clienti)
+
+# visualizziamo le prime righe della tabella
+
+print(dataset.head())
