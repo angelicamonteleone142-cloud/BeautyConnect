@@ -36,8 +36,13 @@ categorie_servizio = ["Hair Styling", "Hair Coloring", "Nail Care", "Skincare", 
 # creazione di una lista vuota che conterrà le informazioni dei clienti
 
 clienti = []
-# In questa prima fa i dati vengono generati in maniera del tutto causuale, senza assegnare ai clienti dei profili prestabiliti
-#
+# In questa prima fa i dati vengono generati in maniera del tutto causuale, senza assegnare ai clienti dei profili prestabiliti.
+# senza assegnare ai clienti nessun profilo
+# l'obiettivo è generare un dataset di partenza da utilizzare per generare i target
+# i valori vengono generati inizialmente in modo indipendete, ma questo tipo di implementazione permette di evidenziare ed osservare
+#delle anomalie, e incoerenze nel risultato.
+# in seguito verranno introdotti dei criteri senza però definire anticipatamente i segmenti dei clienti. 
+ 
 for numero in range(1, numero_clienti + 1):
 
 # Creazione dell'id cliente
