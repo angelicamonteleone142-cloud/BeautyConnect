@@ -42,7 +42,7 @@ clienti = []
 # i valori vengono generati inizialmente in modo indipendete, ma questo tipo di implementazione permette di evidenziare ed osservare
 #delle anomalie, e incoerenze nel risultato.
 # in seguito verranno introdotti dei criteri senza però definire anticipatamente i segmenti dei clienti. 
- 
+
 for numero in range(1, numero_clienti + 1):
 
 # Creazione dell'id cliente
@@ -85,3 +85,13 @@ print("Dimensioni del dataset", dataset.shape)
 # visualizziamo le prime righe della tabella
 
 print(dataset.head())
+
+print("\nDimensioni del dataset:", dataset.shape)
+print("\nInformazioni sul dataset")
+print(dataset.info())
+print("\nStatistiche descrittive:")
+print(dataset.describe())
+
+dataset.to_csv("data/dataset_clienti_iniziale.csv", index=False, encoding = "utf-8-sig")
+
+print("\n Dataset salvato")

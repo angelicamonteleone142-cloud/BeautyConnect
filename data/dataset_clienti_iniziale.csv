@@ -1,0 +1,501 @@
+﻿ID_cliente,Zona,Categoria_preferita,Data_Iscrizione,Numero_Prenotazioni,Totale_Speso,Giorni_Ultima_Prenotazione
+C0001,Nord,Nail Care,2024-01-30,17,1168.48,210
+C0002,Nord,Beauty Treatments,2024-07-16,19,990.58,1005
+C0003,Sud e Isole,Skincare,2025-07-21,1,1109.43,226
+C0004,Centro,Hair Styling,2024-05-18,1,1468.43,1004
+C0005,Sud e Isole,Nail Care,2025-09-20,13,460.21,730
+C0006,Centro,Beauty Treatments,2026-06-21,11,170.5,598
+C0007,Centro,Skincare,2026-02-09,21,1270.12,632
+C0008,Nord,Nail Care,2024-11-10,15,765.77,816
+C0009,Sud e Isole,Beauty Treatments,2024-02-08,4,771.54,1005
+C0010,Centro,Beauty Treatments,2025-06-13,14,1019.56,981
+C0011,Sud e Isole,Beauty Treatments,2026-10-04,19,411.9,264
+C0012,Nord,Beauty Treatments,2026-04-28,20,778.64,291
+C0013,Centro,Hair Coloring,2026-03-20,21,1264.27,961
+C0014,Sud e Isole,Beauty Treatments,2025-06-28,18,729.72,630
+C0015,Sud e Isole,Beauty Treatments,2024-03-19,13,785.19,602
+C0016,Centro,Hair Styling,2026-09-18,5,1183.6,938
+C0017,Sud e Isole,Skincare,2024-11-17,7,475.6,994
+C0018,Centro,Beauty Treatments,2024-02-10,14,1008.53,68
+C0019,Centro,Nail Care,2024-05-01,4,794.83,1055
+C0020,Centro,Skincare,2025-11-15,14,1517.97,981
+C0021,Nord,Nail Care,2024-02-08,12,183.03,842
+C0022,Nord,Skincare,2026-10-27,3,10.38,170
+C0023,Sud e Isole,Hair Coloring,2025-07-05,4,1121.72,549
+C0024,Sud e Isole,Nail Care,2026-01-12,1,571.06,1007
+C0025,Sud e Isole,Hair Coloring,2025-08-25,16,1062.4,1033
+C0026,Centro,Hair Styling,2024-07-22,22,296.62,277
+C0027,Sud e Isole,Nail Care,2024-01-20,14,708.83,304
+C0028,Sud e Isole,Hair Coloring,2024-10-15,1,1726.3,797
+C0029,Nord,Hair Styling,2024-12-14,21,642.59,52
+C0030,Nord,Beauty Treatments,2024-03-25,11,1232.2,921
+C0031,Centro,Hair Styling,2024-02-09,15,1033.2,349
+C0032,Nord,Beauty Treatments,2023-12-26,7,786.16,688
+C0033,Centro,Beauty Treatments,2025-08-04,22,1282.48,817
+C0034,Nord,Hair Coloring,2025-12-04,2,1170.33,98
+C0035,Centro,Hair Coloring,2024-03-09,22,1581.29,264
+C0036,Sud e Isole,Beauty Treatments,2025-09-03,17,1611.36,282
+C0037,Nord,Hair Coloring,2024-09-17,9,771.38,848
+C0038,Nord,Skincare,2025-03-10,6,625.88,539
+C0039,Centro,Skincare,2024-07-26,10,847.18,667
+C0040,Sud e Isole,Skincare,2024-05-28,4,953.78,1074
+C0041,Centro,Hair Styling,2025-09-12,8,18.78,190
+C0042,Centro,Nail Care,2024-08-11,18,1412.13,373
+C0043,Nord,Nail Care,2026-01-07,12,1015.98,443
+C0044,Nord,Beauty Treatments,2025-04-29,18,1354.73,439
+C0045,Sud e Isole,Nail Care,2025-05-24,22,1004.76,207
+C0046,Centro,Hair Styling,2024-06-14,6,199.8,123
+C0047,Centro,Hair Coloring,2026-04-21,17,571.26,130
+C0048,Centro,Nail Care,2025-12-29,9,468.46,28
+C0049,Centro,Nail Care,2024-07-29,1,112.59,481
+C0050,Nord,Nail Care,2026-03-18,4,1237.63,717
+C0051,Centro,Skincare,2026-09-08,13,575.75,441
+C0052,Sud e Isole,Skincare,2024-07-05,22,1582.34,766
+C0053,Sud e Isole,Nail Care,2024-09-19,10,1705.24,729
+C0054,Nord,Skincare,2026-10-07,10,1254.59,593
+C0055,Sud e Isole,Hair Styling,2025-03-26,14,580.8,41
+C0056,Sud e Isole,Nail Care,2025-10-16,18,110.5,230
+C0057,Nord,Beauty Treatments,2026-03-18,4,76.8,1070
+C0058,Centro,Beauty Treatments,2025-03-16,1,770.34,258
+C0059,Centro,Skincare,2024-09-29,13,438.36,862
+C0060,Sud e Isole,Hair Coloring,2026-03-13,6,981.84,812
+C0061,Centro,Hair Coloring,2025-08-14,1,39.71,980
+C0062,Centro,Nail Care,2025-02-18,5,1700.17,183
+C0063,Nord,Beauty Treatments,2026-09-08,21,1560.37,1052
+C0064,Centro,Nail Care,2023-12-25,11,110.7,23
+C0065,Sud e Isole,Hair Coloring,2024-04-05,2,1746.65,1041
+C0066,Nord,Skincare,2024-11-17,8,1015.25,564
+C0067,Centro,Hair Coloring,2024-10-18,12,832.09,937
+C0068,Sud e Isole,Skincare,2025-02-23,7,293.35,840
+C0069,Nord,Skincare,2026-11-14,12,1466.62,1071
+C0070,Sud e Isole,Skincare,2026-09-09,21,318.91,612
+C0071,Centro,Beauty Treatments,2025-05-31,5,1289.34,206
+C0072,Nord,Beauty Treatments,2025-09-06,19,559.01,91
+C0073,Centro,Skincare,2024-01-02,21,1194.57,1041
+C0074,Nord,Hair Styling,2026-02-07,13,607.16,535
+C0075,Centro,Hair Styling,2025-11-01,6,1619.05,604
+C0076,Sud e Isole,Nail Care,2024-11-23,5,1751.23,386
+C0077,Sud e Isole,Hair Styling,2024-03-16,14,646.63,349
+C0078,Sud e Isole,Beauty Treatments,2026-09-25,6,573.26,296
+C0079,Nord,Hair Styling,2026-03-31,17,1205.19,4
+C0080,Centro,Hair Styling,2024-11-01,10,396.98,315
+C0081,Sud e Isole,Beauty Treatments,2025-07-04,5,200.22,668
+C0082,Centro,Hair Styling,2026-06-28,13,480.0,617
+C0083,Sud e Isole,Hair Styling,2024-12-12,16,1638.0,247
+C0084,Sud e Isole,Beauty Treatments,2025-07-07,12,1233.53,933
+C0085,Sud e Isole,Nail Care,2026-06-08,3,1404.49,179
+C0086,Centro,Nail Care,2025-05-30,22,414.63,665
+C0087,Centro,Beauty Treatments,2025-01-14,11,1633.72,1010
+C0088,Centro,Nail Care,2025-11-28,7,1453.42,450
+C0089,Sud e Isole,Nail Care,2024-12-07,14,1498.6,781
+C0090,Nord,Hair Coloring,2024-06-03,19,1185.75,261
+C0091,Centro,Nail Care,2025-01-20,4,582.86,910
+C0092,Centro,Hair Coloring,2025-05-24,8,603.87,293
+C0093,Sud e Isole,Hair Styling,2025-05-25,10,1038.16,821
+C0094,Centro,Hair Styling,2025-01-19,22,743.29,194
+C0095,Sud e Isole,Skincare,2024-01-01,7,769.74,676
+C0096,Nord,Skincare,2025-12-05,1,488.03,516
+C0097,Nord,Nail Care,2024-07-28,16,1533.88,989
+C0098,Centro,Hair Styling,2026-09-09,8,1148.92,550
+C0099,Centro,Hair Styling,2025-09-22,15,931.75,756
+C0100,Nord,Beauty Treatments,2025-11-05,18,1386.4,195
+C0101,Nord,Nail Care,2025-09-01,15,379.4,349
+C0102,Sud e Isole,Nail Care,2026-06-05,19,756.5,1068
+C0103,Sud e Isole,Beauty Treatments,2026-02-25,4,60.66,859
+C0104,Nord,Hair Coloring,2024-01-08,8,1779.23,964
+C0105,Sud e Isole,Nail Care,2024-12-21,12,578.89,982
+C0106,Centro,Skincare,2025-01-24,9,75.72,1003
+C0107,Nord,Hair Styling,2024-03-15,12,464.4,954
+C0108,Nord,Nail Care,2025-05-13,17,1517.62,819
+C0109,Centro,Hair Coloring,2026-08-06,14,1554.65,1042
+C0110,Sud e Isole,Beauty Treatments,2025-03-23,16,1113.37,1043
+C0111,Sud e Isole,Beauty Treatments,2025-01-28,16,579.1,695
+C0112,Centro,Hair Coloring,2026-06-18,18,1555.66,357
+C0113,Centro,Beauty Treatments,2023-12-24,13,1138.67,439
+C0114,Nord,Skincare,2025-07-19,7,777.89,1078
+C0115,Nord,Beauty Treatments,2025-09-18,9,1398.65,1000
+C0116,Nord,Beauty Treatments,2025-01-26,12,1794.97,802
+C0117,Sud e Isole,Beauty Treatments,2025-11-02,5,1096.12,313
+C0118,Sud e Isole,Hair Coloring,2026-03-01,22,1035.57,70
+C0119,Centro,Nail Care,2025-11-23,5,488.93,730
+C0120,Nord,Skincare,2025-12-15,6,1250.44,380
+C0121,Sud e Isole,Hair Coloring,2024-07-30,21,1124.81,59
+C0122,Centro,Hair Coloring,2024-01-06,12,1599.57,188
+C0123,Centro,Skincare,2026-01-11,11,270.71,1040
+C0124,Nord,Skincare,2026-11-09,2,179.43,526
+C0125,Centro,Hair Styling,2025-12-24,17,352.48,184
+C0126,Centro,Skincare,2025-10-12,6,441.61,1012
+C0127,Nord,Nail Care,2026-01-04,18,1785.44,864
+C0128,Sud e Isole,Skincare,2024-04-28,12,1272.03,632
+C0129,Sud e Isole,Skincare,2024-03-13,3,1582.89,432
+C0130,Sud e Isole,Hair Coloring,2026-04-01,3,643.54,323
+C0131,Nord,Hair Coloring,2025-10-04,21,786.12,876
+C0132,Nord,Beauty Treatments,2026-02-01,21,1613.44,550
+C0133,Centro,Nail Care,2024-08-31,1,863.07,942
+C0134,Centro,Nail Care,2024-02-29,5,202.36,294
+C0135,Sud e Isole,Hair Coloring,2024-11-19,15,685.55,98
+C0136,Sud e Isole,Beauty Treatments,2025-01-25,9,1741.53,161
+C0137,Centro,Skincare,2024-12-16,18,1488.46,1076
+C0138,Sud e Isole,Hair Styling,2025-05-08,10,76.64,85
+C0139,Nord,Beauty Treatments,2024-05-12,19,204.75,935
+C0140,Sud e Isole,Skincare,2026-10-11,5,1617.73,275
+C0141,Nord,Hair Styling,2024-09-13,3,311.03,522
+C0142,Nord,Hair Styling,2026-07-02,20,942.26,685
+C0143,Sud e Isole,Hair Coloring,2025-03-06,16,443.19,959
+C0144,Sud e Isole,Hair Coloring,2024-08-27,8,930.22,640
+C0145,Centro,Hair Styling,2024-02-27,8,1076.28,898
+C0146,Nord,Hair Styling,2024-03-24,19,693.1,1085
+C0147,Nord,Skincare,2025-09-03,13,1317.13,1084
+C0148,Centro,Hair Coloring,2025-03-31,8,1550.44,642
+C0149,Centro,Skincare,2026-10-02,12,1087.97,1064
+C0150,Nord,Beauty Treatments,2026-03-19,19,669.59,444
+C0151,Sud e Isole,Hair Styling,2025-12-11,15,735.67,227
+C0152,Nord,Skincare,2024-08-25,1,447.33,104
+C0153,Centro,Hair Coloring,2023-12-16,9,1642.78,173
+C0154,Centro,Hair Coloring,2026-09-11,7,1274.89,236
+C0155,Centro,Beauty Treatments,2026-09-13,12,1728.25,956
+C0156,Sud e Isole,Hair Styling,2025-10-31,21,1175.66,986
+C0157,Nord,Nail Care,2026-05-22,6,1176.84,571
+C0158,Nord,Hair Styling,2025-04-16,20,1166.97,965
+C0159,Centro,Hair Styling,2025-12-16,18,1147.89,487
+C0160,Centro,Hair Styling,2024-12-04,8,970.8,950
+C0161,Nord,Hair Coloring,2026-09-21,1,750.18,183
+C0162,Centro,Beauty Treatments,2025-11-24,6,434.03,408
+C0163,Sud e Isole,Nail Care,2024-08-28,9,1770.59,345
+C0164,Centro,Hair Styling,2026-10-17,12,143.02,266
+C0165,Sud e Isole,Beauty Treatments,2025-07-14,16,1568.32,305
+C0166,Sud e Isole,Nail Care,2025-11-30,16,994.71,284
+C0167,Nord,Skincare,2026-05-25,16,1136.39,693
+C0168,Sud e Isole,Nail Care,2026-06-07,22,1068.36,516
+C0169,Nord,Hair Styling,2024-10-13,8,1698.64,367
+C0170,Centro,Beauty Treatments,2026-11-03,1,623.17,359
+C0171,Sud e Isole,Skincare,2026-05-10,8,1199.43,325
+C0172,Sud e Isole,Beauty Treatments,2024-03-20,4,130.86,8
+C0173,Sud e Isole,Beauty Treatments,2025-02-25,5,739.8,516
+C0174,Nord,Skincare,2025-03-29,5,692.24,10
+C0175,Centro,Beauty Treatments,2026-03-21,4,417.09,665
+C0176,Centro,Hair Styling,2024-09-27,9,795.41,909
+C0177,Sud e Isole,Nail Care,2025-06-29,15,1333.94,840
+C0178,Centro,Nail Care,2025-02-21,6,191.97,62
+C0179,Nord,Hair Coloring,2025-03-31,13,412.48,666
+C0180,Nord,Hair Styling,2025-08-11,13,239.92,686
+C0181,Sud e Isole,Beauty Treatments,2024-09-07,7,1113.39,620
+C0182,Sud e Isole,Beauty Treatments,2024-10-11,9,632.27,926
+C0183,Nord,Hair Coloring,2024-01-18,10,77.03,400
+C0184,Centro,Hair Coloring,2024-06-26,22,1049.03,911
+C0185,Centro,Skincare,2026-07-26,20,559.76,74
+C0186,Sud e Isole,Beauty Treatments,2025-01-02,18,543.32,847
+C0187,Nord,Beauty Treatments,2024-01-13,10,1443.9,1036
+C0188,Centro,Nail Care,2024-09-18,17,404.79,862
+C0189,Sud e Isole,Skincare,2024-09-22,20,1607.18,745
+C0190,Nord,Beauty Treatments,2024-10-12,12,1555.83,59
+C0191,Nord,Hair Coloring,2025-09-10,6,888.05,806
+C0192,Centro,Hair Coloring,2024-06-16,17,349.22,63
+C0193,Sud e Isole,Hair Styling,2026-05-01,4,399.05,252
+C0194,Centro,Beauty Treatments,2024-12-14,21,933.51,201
+C0195,Centro,Hair Coloring,2025-02-05,10,1616.49,198
+C0196,Nord,Nail Care,2026-01-20,15,1132.94,203
+C0197,Sud e Isole,Hair Styling,2025-10-30,18,1549.15,698
+C0198,Sud e Isole,Hair Coloring,2026-03-14,3,630.11,305
+C0199,Centro,Skincare,2026-05-05,18,1434.23,867
+C0200,Nord,Hair Styling,2026-10-13,22,840.15,128
+C0201,Centro,Skincare,2026-07-22,15,861.28,201
+C0202,Nord,Skincare,2025-11-18,14,1156.13,523
+C0203,Sud e Isole,Beauty Treatments,2023-12-17,8,770.05,716
+C0204,Nord,Hair Styling,2026-02-07,20,1095.42,629
+C0205,Centro,Skincare,2026-04-29,8,663.16,155
+C0206,Centro,Hair Styling,2025-06-01,11,774.19,636
+C0207,Nord,Beauty Treatments,2023-12-18,6,954.35,518
+C0208,Nord,Beauty Treatments,2025-06-27,17,833.56,846
+C0209,Sud e Isole,Nail Care,2025-09-25,19,800.77,732
+C0210,Sud e Isole,Nail Care,2025-05-30,10,207.48,505
+C0211,Nord,Hair Coloring,2025-01-02,11,1313.13,251
+C0212,Sud e Isole,Nail Care,2024-08-15,21,769.51,945
+C0213,Sud e Isole,Skincare,2026-04-20,12,1566.18,881
+C0214,Sud e Isole,Skincare,2025-01-29,19,685.56,29
+C0215,Centro,Skincare,2024-12-06,9,1410.38,20
+C0216,Centro,Skincare,2024-04-14,2,1089.71,602
+C0217,Sud e Isole,Beauty Treatments,2026-08-05,4,1387.67,884
+C0218,Centro,Skincare,2025-03-20,9,13.99,447
+C0219,Nord,Hair Styling,2025-08-13,6,99.01,751
+C0220,Sud e Isole,Beauty Treatments,2024-05-04,4,1219.76,1057
+C0221,Sud e Isole,Beauty Treatments,2026-08-05,10,237.22,856
+C0222,Nord,Hair Styling,2026-07-11,4,1431.69,147
+C0223,Sud e Isole,Skincare,2026-09-10,5,799.05,49
+C0224,Centro,Skincare,2024-10-26,18,1220.78,903
+C0225,Nord,Hair Styling,2024-07-28,10,277.73,337
+C0226,Sud e Isole,Skincare,2026-08-17,3,821.57,844
+C0227,Centro,Skincare,2026-01-28,1,524.5,193
+C0228,Nord,Skincare,2025-10-28,9,1734.41,946
+C0229,Sud e Isole,Beauty Treatments,2026-01-20,7,585.25,604
+C0230,Nord,Hair Styling,2025-10-25,15,701.18,736
+C0231,Centro,Hair Styling,2026-11-04,12,1042.84,189
+C0232,Centro,Beauty Treatments,2025-09-02,7,618.93,190
+C0233,Centro,Beauty Treatments,2026-04-11,18,140.95,461
+C0234,Centro,Beauty Treatments,2024-12-12,5,315.74,397
+C0235,Sud e Isole,Nail Care,2026-03-24,13,459.97,964
+C0236,Centro,Hair Coloring,2025-11-05,6,1689.12,970
+C0237,Nord,Beauty Treatments,2026-02-20,20,1786.95,1094
+C0238,Nord,Beauty Treatments,2024-12-18,8,1296.64,970
+C0239,Sud e Isole,Hair Styling,2025-03-09,5,490.16,804
+C0240,Sud e Isole,Hair Styling,2025-09-25,10,231.15,848
+C0241,Nord,Skincare,2025-02-15,10,544.57,96
+C0242,Nord,Nail Care,2024-06-17,3,1578.26,414
+C0243,Sud e Isole,Hair Styling,2026-09-24,11,371.69,652
+C0244,Nord,Nail Care,2024-02-07,17,1510.49,684
+C0245,Sud e Isole,Beauty Treatments,2025-09-02,2,650.65,1008
+C0246,Sud e Isole,Skincare,2024-06-29,2,1129.39,700
+C0247,Centro,Hair Coloring,2025-06-22,18,1144.83,705
+C0248,Centro,Beauty Treatments,2026-06-12,21,1169.34,42
+C0249,Centro,Skincare,2026-08-09,21,1081.13,967
+C0250,Nord,Skincare,2024-08-20,4,1287.64,728
+C0251,Nord,Nail Care,2026-03-28,8,766.59,425
+C0252,Centro,Hair Coloring,2024-04-26,22,26.03,78
+C0253,Sud e Isole,Beauty Treatments,2024-03-27,12,319.08,270
+C0254,Nord,Beauty Treatments,2025-03-17,6,560.87,882
+C0255,Centro,Skincare,2024-06-14,18,784.21,183
+C0256,Centro,Skincare,2024-11-01,7,1098.19,1002
+C0257,Centro,Nail Care,2025-07-23,11,994.35,398
+C0258,Sud e Isole,Nail Care,2025-11-07,3,833.36,451
+C0259,Sud e Isole,Hair Coloring,2025-03-02,20,737.19,931
+C0260,Nord,Nail Care,2025-04-09,3,1139.13,565
+C0261,Centro,Nail Care,2026-07-10,13,1600.92,1046
+C0262,Centro,Nail Care,2024-07-20,3,224.2,573
+C0263,Nord,Hair Styling,2023-12-22,5,452.39,666
+C0264,Sud e Isole,Nail Care,2025-08-19,9,1109.33,553
+C0265,Nord,Nail Care,2025-12-11,19,1674.94,985
+C0266,Centro,Skincare,2023-12-30,3,1382.54,263
+C0267,Centro,Nail Care,2024-09-01,1,331.06,190
+C0268,Sud e Isole,Nail Care,2024-08-19,18,1245.48,0
+C0269,Nord,Hair Styling,2026-10-23,2,1131.07,268
+C0270,Nord,Hair Styling,2024-02-26,2,1387.15,221
+C0271,Centro,Hair Styling,2025-10-13,20,288.98,411
+C0272,Nord,Hair Styling,2024-10-21,15,68.85,74
+C0273,Centro,Beauty Treatments,2024-01-28,16,813.5,1083
+C0274,Sud e Isole,Hair Styling,2024-07-16,13,1537.86,215
+C0275,Centro,Skincare,2025-07-24,12,159.68,10
+C0276,Nord,Hair Styling,2025-07-10,17,440.1,79
+C0277,Nord,Nail Care,2026-11-13,21,379.04,14
+C0278,Centro,Hair Coloring,2024-09-17,7,1361.82,177
+C0279,Centro,Skincare,2026-05-07,11,1635.96,365
+C0280,Sud e Isole,Hair Coloring,2026-08-25,3,1602.05,283
+C0281,Centro,Skincare,2026-08-30,17,1270.93,306
+C0282,Sud e Isole,Skincare,2024-03-28,1,1559.26,1021
+C0283,Sud e Isole,Hair Coloring,2025-12-12,7,1074.42,1041
+C0284,Nord,Hair Coloring,2025-10-18,16,119.93,263
+C0285,Centro,Hair Styling,2024-01-11,14,230.18,245
+C0286,Nord,Beauty Treatments,2026-04-21,10,1773.39,47
+C0287,Sud e Isole,Skincare,2024-04-04,11,572.11,643
+C0288,Nord,Skincare,2024-09-06,8,1470.26,197
+C0289,Centro,Skincare,2024-07-28,17,272.36,648
+C0290,Sud e Isole,Skincare,2025-10-19,9,992.39,186
+C0291,Nord,Nail Care,2026-03-26,15,1610.55,329
+C0292,Centro,Nail Care,2025-08-22,14,718.06,310
+C0293,Sud e Isole,Hair Coloring,2026-10-05,22,1546.99,356
+C0294,Nord,Beauty Treatments,2026-02-23,10,286.27,316
+C0295,Nord,Nail Care,2026-02-19,13,302.02,458
+C0296,Centro,Hair Styling,2024-11-07,2,693.97,245
+C0297,Sud e Isole,Beauty Treatments,2024-05-17,1,544.55,640
+C0298,Nord,Skincare,2026-08-05,4,427.66,293
+C0299,Centro,Hair Coloring,2024-09-29,19,662.41,895
+C0300,Sud e Isole,Hair Coloring,2024-04-05,17,1694.41,287
+C0301,Centro,Skincare,2026-09-18,21,925.33,195
+C0302,Sud e Isole,Beauty Treatments,2024-08-22,21,205.46,192
+C0303,Nord,Beauty Treatments,2024-12-17,13,118.97,85
+C0304,Nord,Hair Coloring,2026-03-07,7,983.21,804
+C0305,Sud e Isole,Nail Care,2025-10-01,9,406.41,1004
+C0306,Centro,Skincare,2025-02-10,11,70.87,412
+C0307,Sud e Isole,Nail Care,2026-03-25,2,1317.67,108
+C0308,Centro,Hair Coloring,2024-03-07,3,1307.07,971
+C0309,Nord,Hair Styling,2025-12-13,9,415.31,749
+C0310,Nord,Skincare,2024-12-31,18,667.22,832
+C0311,Sud e Isole,Hair Styling,2026-04-23,11,464.14,221
+C0312,Centro,Hair Styling,2026-08-31,7,1653.6,51
+C0313,Nord,Hair Coloring,2024-12-06,1,290.12,725
+C0314,Nord,Hair Styling,2024-11-01,4,160.61,1089
+C0315,Nord,Beauty Treatments,2025-06-29,4,1455.84,432
+C0316,Centro,Hair Styling,2026-10-19,17,248.53,438
+C0317,Sud e Isole,Skincare,2026-07-13,8,681.16,270
+C0318,Sud e Isole,Hair Styling,2026-03-02,6,323.21,442
+C0319,Sud e Isole,Beauty Treatments,2024-10-12,7,885.17,1090
+C0320,Centro,Skincare,2024-09-05,2,527.51,24
+C0321,Centro,Nail Care,2025-12-09,10,1519.14,1064
+C0322,Sud e Isole,Nail Care,2025-04-16,22,282.69,287
+C0323,Centro,Skincare,2025-05-23,3,1146.79,320
+C0324,Sud e Isole,Skincare,2025-02-27,9,1320.2,910
+C0325,Centro,Skincare,2026-09-05,9,1495.87,956
+C0326,Nord,Hair Coloring,2025-08-15,13,1306.5,740
+C0327,Centro,Hair Styling,2025-04-21,19,715.41,928
+C0328,Nord,Beauty Treatments,2024-08-01,2,614.6,542
+C0329,Sud e Isole,Hair Coloring,2025-08-14,7,920.83,341
+C0330,Centro,Beauty Treatments,2024-03-08,15,205.59,821
+C0331,Centro,Nail Care,2025-04-17,13,1493.47,624
+C0332,Nord,Hair Coloring,2024-04-27,6,57.64,854
+C0333,Sud e Isole,Hair Coloring,2026-03-08,14,706.28,8
+C0334,Centro,Nail Care,2024-09-19,17,1070.91,781
+C0335,Centro,Hair Styling,2024-08-09,10,987.76,1023
+C0336,Sud e Isole,Beauty Treatments,2025-12-01,2,1193.93,509
+C0337,Sud e Isole,Skincare,2025-12-09,6,70.66,1091
+C0338,Centro,Skincare,2025-01-13,8,1309.56,1019
+C0339,Nord,Hair Styling,2026-11-11,1,1403.35,1060
+C0340,Sud e Isole,Skincare,2024-08-12,22,50.09,360
+C0341,Sud e Isole,Hair Coloring,2025-12-17,1,1536.54,34
+C0342,Nord,Skincare,2026-02-01,20,943.21,639
+C0343,Nord,Skincare,2024-01-02,5,101.63,776
+C0344,Sud e Isole,Hair Coloring,2025-05-07,9,398.97,956
+C0345,Centro,Nail Care,2024-07-07,13,495.8,339
+C0346,Sud e Isole,Hair Coloring,2026-04-07,14,1261.14,900
+C0347,Centro,Beauty Treatments,2026-01-04,3,522.88,762
+C0348,Nord,Nail Care,2025-03-21,15,1159.78,807
+C0349,Centro,Hair Coloring,2024-12-06,6,122.97,72
+C0350,Nord,Hair Coloring,2025-12-15,3,237.76,884
+C0351,Sud e Isole,Skincare,2024-01-15,14,1701.6,321
+C0352,Nord,Skincare,2026-05-25,8,952.0,243
+C0353,Nord,Beauty Treatments,2025-05-14,16,172.54,56
+C0354,Sud e Isole,Hair Coloring,2024-10-20,5,1112.3,114
+C0355,Centro,Nail Care,2025-12-09,11,699.65,657
+C0356,Centro,Beauty Treatments,2024-02-03,7,850.49,998
+C0357,Sud e Isole,Skincare,2025-09-06,10,593.99,880
+C0358,Nord,Skincare,2025-06-13,11,16.85,144
+C0359,Nord,Nail Care,2024-10-18,20,1711.67,587
+C0360,Centro,Hair Styling,2024-06-27,12,1511.57,1091
+C0361,Centro,Nail Care,2026-08-22,1,830.47,549
+C0362,Sud e Isole,Beauty Treatments,2025-01-31,4,1629.98,239
+C0363,Nord,Hair Styling,2025-09-26,8,124.53,763
+C0364,Centro,Hair Styling,2025-06-14,22,62.09,405
+C0365,Centro,Beauty Treatments,2026-07-01,20,603.6,862
+C0366,Nord,Hair Styling,2026-07-03,2,215.34,690
+C0367,Sud e Isole,Nail Care,2025-06-04,10,688.13,750
+C0368,Nord,Nail Care,2024-02-29,12,1338.9,506
+C0369,Sud e Isole,Hair Coloring,2026-07-06,2,1206.74,719
+C0370,Centro,Beauty Treatments,2026-09-06,21,1102.45,336
+C0371,Sud e Isole,Hair Styling,2024-01-27,20,1487.77,121
+C0372,Centro,Beauty Treatments,2025-01-15,8,1587.22,612
+C0373,Nord,Hair Coloring,2024-03-05,21,422.18,783
+C0374,Sud e Isole,Beauty Treatments,2024-05-28,19,580.78,196
+C0375,Centro,Beauty Treatments,2025-01-25,10,262.67,945
+C0376,Centro,Nail Care,2024-01-18,1,606.65,546
+C0377,Sud e Isole,Beauty Treatments,2026-08-24,13,671.04,1068
+C0378,Centro,Skincare,2026-02-15,11,334.46,557
+C0379,Centro,Skincare,2026-06-22,17,1448.8,863
+C0380,Sud e Isole,Hair Coloring,2025-06-07,1,1164.54,817
+C0381,Nord,Hair Coloring,2024-10-25,16,1427.63,47
+C0382,Centro,Beauty Treatments,2025-04-16,6,751.78,790
+C0383,Sud e Isole,Beauty Treatments,2026-03-22,21,559.59,428
+C0384,Nord,Hair Styling,2024-04-14,20,1713.48,167
+C0385,Centro,Hair Coloring,2026-09-28,16,500.13,923
+C0386,Centro,Skincare,2025-10-22,22,1600.32,1063
+C0387,Sud e Isole,Skincare,2026-06-29,18,29.83,556
+C0388,Nord,Beauty Treatments,2024-06-25,3,1634.31,472
+C0389,Sud e Isole,Nail Care,2026-08-23,14,1110.06,643
+C0390,Centro,Hair Coloring,2026-04-24,9,347.26,739
+C0391,Centro,Skincare,2026-04-12,17,118.3,914
+C0392,Centro,Skincare,2024-06-10,18,212.26,1015
+C0393,Nord,Nail Care,2024-09-21,13,539.96,349
+C0394,Nord,Hair Styling,2025-11-10,17,1505.6,690
+C0395,Nord,Nail Care,2026-10-10,6,1217.55,954
+C0396,Sud e Isole,Skincare,2023-11-26,3,1497.07,775
+C0397,Sud e Isole,Beauty Treatments,2024-02-18,17,464.05,824
+C0398,Sud e Isole,Hair Styling,2024-02-25,20,830.53,706
+C0399,Centro,Skincare,2024-12-30,14,777.75,762
+C0400,Centro,Nail Care,2023-12-07,7,1642.29,841
+C0401,Centro,Hair Styling,2024-02-17,17,616.62,142
+C0402,Centro,Hair Coloring,2025-06-07,10,1583.85,932
+C0403,Nord,Skincare,2024-05-11,9,942.15,408
+C0404,Centro,Nail Care,2026-08-30,7,258.63,146
+C0405,Sud e Isole,Hair Styling,2024-05-31,6,1501.94,111
+C0406,Nord,Nail Care,2024-05-04,11,66.05,1087
+C0407,Nord,Skincare,2024-02-22,15,916.96,691
+C0408,Sud e Isole,Nail Care,2024-12-02,16,1060.37,60
+C0409,Nord,Skincare,2025-11-23,20,392.74,1087
+C0410,Nord,Hair Coloring,2024-05-25,3,1718.13,574
+C0411,Centro,Hair Styling,2025-05-10,7,581.94,244
+C0412,Nord,Nail Care,2025-09-24,16,1146.43,927
+C0413,Nord,Skincare,2024-08-18,16,1392.09,626
+C0414,Centro,Hair Styling,2025-03-06,15,359.77,458
+C0415,Nord,Hair Coloring,2025-05-20,12,253.26,999
+C0416,Centro,Hair Styling,2025-08-18,6,1313.73,554
+C0417,Centro,Hair Styling,2025-03-29,8,1485.23,851
+C0418,Centro,Hair Coloring,2023-12-26,6,563.35,420
+C0419,Nord,Nail Care,2025-09-17,7,612.85,190
+C0420,Sud e Isole,Hair Coloring,2024-01-16,4,1151.01,683
+C0421,Centro,Nail Care,2025-04-05,3,1408.82,668
+C0422,Sud e Isole,Skincare,2024-09-07,6,1532.04,965
+C0423,Nord,Hair Coloring,2024-11-10,5,52.57,610
+C0424,Sud e Isole,Hair Coloring,2024-09-06,12,1602.19,160
+C0425,Sud e Isole,Skincare,2025-11-21,13,1629.58,694
+C0426,Sud e Isole,Hair Coloring,2024-11-20,20,1657.72,362
+C0427,Centro,Hair Styling,2026-08-17,12,271.7,814
+C0428,Centro,Beauty Treatments,2025-03-10,14,45.2,708
+C0429,Nord,Beauty Treatments,2025-08-26,2,41.58,74
+C0430,Centro,Hair Styling,2025-02-23,13,594.79,747
+C0431,Centro,Skincare,2025-11-24,6,377.9,547
+C0432,Sud e Isole,Beauty Treatments,2023-12-20,8,96.23,348
+C0433,Nord,Skincare,2024-12-22,9,1107.65,68
+C0434,Sud e Isole,Beauty Treatments,2023-12-21,6,403.58,1029
+C0435,Centro,Hair Coloring,2026-11-24,11,1522.61,6
+C0436,Sud e Isole,Skincare,2026-04-04,20,237.64,903
+C0437,Centro,Nail Care,2025-08-04,11,567.32,488
+C0438,Centro,Nail Care,2024-02-08,9,561.53,716
+C0439,Nord,Beauty Treatments,2025-02-08,12,1121.16,389
+C0440,Sud e Isole,Beauty Treatments,2025-12-20,20,1615.99,177
+C0441,Centro,Hair Styling,2025-10-24,14,173.27,390
+C0442,Sud e Isole,Beauty Treatments,2024-05-31,7,29.9,504
+C0443,Centro,Nail Care,2026-02-04,14,923.83,646
+C0444,Centro,Beauty Treatments,2024-08-13,2,597.08,232
+C0445,Sud e Isole,Beauty Treatments,2025-09-05,22,857.28,233
+C0446,Nord,Nail Care,2025-07-24,19,1453.86,378
+C0447,Centro,Skincare,2025-01-26,8,822.91,964
+C0448,Nord,Hair Styling,2024-02-03,1,1028.71,786
+C0449,Nord,Skincare,2024-04-12,8,245.72,560
+C0450,Centro,Nail Care,2026-01-03,16,537.74,463
+C0451,Centro,Beauty Treatments,2026-11-02,9,378.31,93
+C0452,Centro,Hair Styling,2024-02-25,6,735.48,564
+C0453,Sud e Isole,Hair Coloring,2025-12-15,11,1711.61,209
+C0454,Centro,Hair Coloring,2026-06-22,13,1784.76,693
+C0455,Centro,Skincare,2024-05-23,12,1193.2,315
+C0456,Centro,Hair Styling,2024-11-10,18,1221.63,179
+C0457,Sud e Isole,Beauty Treatments,2024-12-13,18,1406.17,398
+C0458,Sud e Isole,Hair Coloring,2026-01-06,19,1077.12,59
+C0459,Centro,Skincare,2026-09-09,20,181.24,176
+C0460,Centro,Nail Care,2024-02-07,1,1693.42,796
+C0461,Nord,Hair Styling,2024-09-07,20,687.2,989
+C0462,Centro,Nail Care,2025-05-24,15,1074.43,1047
+C0463,Nord,Skincare,2024-06-25,17,1049.71,243
+C0464,Centro,Skincare,2024-06-23,2,348.62,592
+C0465,Nord,Hair Coloring,2024-09-19,11,1772.06,856
+C0466,Sud e Isole,Skincare,2026-08-28,6,790.16,506
+C0467,Centro,Nail Care,2025-05-27,15,507.42,674
+C0468,Centro,Skincare,2024-03-24,22,345.88,384
+C0469,Centro,Nail Care,2025-08-04,14,1718.15,797
+C0470,Sud e Isole,Hair Coloring,2026-10-27,10,469.94,194
+C0471,Sud e Isole,Hair Styling,2026-03-23,17,1475.92,481
+C0472,Nord,Hair Styling,2024-03-24,18,339.05,107
+C0473,Centro,Nail Care,2026-11-09,22,1341.16,634
+C0474,Sud e Isole,Hair Styling,2024-10-23,7,333.05,850
+C0475,Sud e Isole,Beauty Treatments,2024-03-14,1,846.02,588
+C0476,Centro,Hair Coloring,2026-06-05,15,423.28,983
+C0477,Centro,Hair Styling,2025-11-06,16,1236.68,765
+C0478,Centro,Nail Care,2024-06-29,11,209.36,634
+C0479,Centro,Hair Coloring,2024-07-27,2,102.65,174
+C0480,Nord,Hair Styling,2025-11-30,13,707.46,380
+C0481,Centro,Beauty Treatments,2024-04-22,7,759.07,874
+C0482,Centro,Skincare,2024-03-14,3,1706.77,990
+C0483,Nord,Hair Styling,2024-06-28,9,987.48,203
+C0484,Sud e Isole,Beauty Treatments,2025-05-02,1,1116.72,431
+C0485,Sud e Isole,Skincare,2024-04-10,10,1103.5,329
+C0486,Nord,Nail Care,2024-11-21,21,1127.44,92
+C0487,Centro,Skincare,2026-04-05,18,566.25,61
+C0488,Centro,Beauty Treatments,2025-12-31,14,1425.89,707
+C0489,Centro,Hair Styling,2025-03-13,7,1079.54,1014
+C0490,Centro,Nail Care,2026-10-26,5,636.4,204
+C0491,Sud e Isole,Skincare,2026-08-21,16,790.83,501
+C0492,Sud e Isole,Skincare,2025-02-19,7,633.27,95
+C0493,Centro,Skincare,2026-08-19,17,1426.95,920
+C0494,Centro,Hair Styling,2025-07-31,16,613.43,517
+C0495,Sud e Isole,Beauty Treatments,2024-02-29,19,199.98,344
+C0496,Sud e Isole,Hair Coloring,2024-09-18,6,524.4,373
+C0497,Nord,Skincare,2026-09-30,15,998.42,1034
+C0498,Sud e Isole,Skincare,2025-03-25,11,1335.72,269
+C0499,Sud e Isole,Nail Care,2025-02-02,5,248.08,701
+C0500,Nord,Nail Care,2025-08-06,11,161.03,897
