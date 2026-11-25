@@ -37,7 +37,7 @@ categorie_servizio = ["Hair Styling", "Hair Coloring", "Nail Care", "Skincare", 
 
 clienti = []
 
-fro numero in range(1, numero_cienti + 1):
+for numero in range(1, numero_clienti + 1):
 
 # Creazione dell'id cliente
 
