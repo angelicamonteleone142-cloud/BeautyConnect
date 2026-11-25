@@ -2,8 +2,8 @@
 # con le date e calcolare intervalli di tempo.
 # random permette di generare valori casuali, come ad esempio per assegnare categorie o caratteristiche di un cliente.
 
-import panda as pd 
-import numpy as numpy
+import pandas as pd 
+import numpy as np
 
 from datetime import datetime, timedelta
 import random
@@ -36,33 +36,47 @@ categorie_servizio = ["Hair Styling", "Hair Coloring", "Nail Care", "Skincare", 
 # creazione di una lista vuota che conterrà le informazioni dei clienti
 
 clienti = []
-
+# In questa prima fa i dati vengono generati in maniera del tutto causuale, senza assegnare ai clienti dei profili prestabiliti
+#
 for numero in range(1, numero_clienti + 1):
 
 # Creazione dell'id cliente
 
-identificativo = f"C{numero:04d}"
+                identificativo = f"C{numero:04d}"
 
 # Seleziono casualmente l'area geografica
 
-zona = random.choice(zone_geografiche)
+                zona = random.choice(zone_geografiche)
 
 # seleziono casualmente la categoria di servizio
 
-categoria = random.choice(categorie_servizio)
+                categoria = random.choice(categorie_servizio)
+
+                giorni_dal_inizio = random.randint(0, 365 * 3)
+
+                data_iscrizione = data_riferimento - timedelta(days=giorni_dal_inizio)
+
+                numero_prenotazioni = random.randint(1,22)
+                totale_speso = round(random.uniform(10,1800), 2)
+                giorni_ultima_prenotazione = random.randint(0, 365 * 3)
 
 # popolo la lista dei clienti con le informazioni
 
-clienti.append({
+                clienti.append({
     "ID_cliente": identificativo,
     "Zona": zona,
-    "Categoria_preferita": categoria
+    "Categoria_preferita": categoria,
+    "Data_Iscrizione": data_iscrizione.strftime("%Y-%m-%d"),
+    "Numero_Prenotazioni": numero_prenotazioni,
+    "Totale_Speso": totale_speso,
+    "Giorni_Ultima_Prenotazione": giorni_ultima_prenotazione
 })
 
 # Con l'utilizzo di Pandas creiamo una tabella dalla lista
 
 dataset = pd.DataFrame(clienti)
 
+print("Dimensioni del dataset", dataset.shape)
 # visualizziamo le prime righe della tabella
 
 print(dataset.head())
